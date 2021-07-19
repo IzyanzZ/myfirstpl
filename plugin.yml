@@ -1,1 +1,9 @@
+name: IzyanzZ
+main: Izyanz\Inc
+api: 3.0.0
+author: IzyanzZ
+version: 1.0
 
+commands:
+  izyanzz:
+    description: "My Plugin"
