@@ -4,7 +4,7 @@ namespace IzyanzZ;
 
 use pocketmine\plugin\PluginBase;
 
-class Izyanz extends PluginBase {
+class main extends PluginBase {
 
     public function onEnable(){
         $this->getLogger()->info("Plugin-Active");
@@ -15,6 +15,6 @@ class Izyanz extends PluginBase {
     }
 
     public function onDisable(){
-        $this->getLogger()->info("Plugin Disable);
+        $this->getLogger()->info("Plugin Disable");
     }
 }
